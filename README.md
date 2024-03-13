@@ -1,4 +1,4 @@
-## UI của dự án ChatApp
+## Design UI của dự án ChatApp
 
 Sign in
 ![SignIn](https://github.com/DoanHieu1308/ChatApp/assets/128965111/5a07d93a-a9e0-46be-8dc1-56bbc63b2a31)
@@ -26,6 +26,35 @@ Detail item recent conversion
 
 Detail item container user
 ![Item_container_user](https://github.com/DoanHieu1308/ChatApp/assets/128965111/fad7b30e-6257-43e7-8996-dda3e106c7e7)
+
+## Chạy demo
+
+Sign in
+![sign in](https://github.com/DoanHieu1308/ChatApp/assets/128965111/a5602bdc-8636-4792-9dd6-a2e78fffe4ff)
+
+Sign up
+![sing up](https://github.com/DoanHieu1308/ChatApp/assets/128965111/1c865231-8448-4ffe-a7d3-a173ed166ae8)
+
+Friends
+![friends](https://github.com/DoanHieu1308/ChatApp/assets/128965111/c6b4d45d-5008-46b8-96d3-0418f40655ac)
+
+Chat screen of user 1
+![chat_user1](https://github.com/DoanHieu1308/ChatApp/assets/128965111/df29d826-978e-4a4a-911b-c900fa542e34)
+
+Chat screen of user 2
+![chat_user2](https://github.com/DoanHieu1308/ChatApp/assets/128965111/b380c097-04c6-4824-80a4-fe0b87bf7047)
+
+Main screen of user 1
+![main screen of user1](https://github.com/DoanHieu1308/ChatApp/assets/128965111/feb36f9a-3342-42c6-bc1d-ceb001118fe8)
+
+Main screen of user 2
+![main screen of user2](https://github.com/DoanHieu1308/ChatApp/assets/128965111/01634222-fa2d-4193-88da-92cd7f2ba0d8)
+
+
+
+
+
+
 
 
 
